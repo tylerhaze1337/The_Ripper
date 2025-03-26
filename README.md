@@ -1,4 +1,4 @@
-# The Riper 🚀
+# The Ripper 🔪
 
 A collection of PowerShell scripts to automate various tasks on Windows systems, such as enabling administrator rights, adding Windows Defender exclusions, and extracting/handling files.
 
